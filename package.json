@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "themagicbean",
-	"description:" "another way to find frustration with otherwise free time",
+	"description": "another way to find frustration with otherwise free time",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
