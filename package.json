@@ -4,7 +4,7 @@
 	"description": "another way to find frustration with otherwise free time",
 	"keywords": ["freecodecamp", "npm", "something sarcastic but I can't think of what"],
 	"license": "MIT",
-	"version": "0.0.1"
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0",
 		"moment": "2.14.0",
